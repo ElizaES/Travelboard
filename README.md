@@ -43,6 +43,10 @@ Licencja: MIT
 
 ### 4. Projekt (język UML)
 
+#### ⠀⠀Diagram przypadków użycia 
+
+![alt text](img/Diagram.png)
+
 
 ### 5. Architektura systemu/oprogramowania
 
